@@ -1,6 +1,6 @@
 ### Hi, I'm Sandeep
 
-This is my open research page, feel free to reach out by email, if you feel I could help out! (Columbia University, alumnus), UK-based.
+This is my open research page, feel free to reach out by email, if you feel I could help out! (Columbia University, alumnus), UK/US-based.
 
 #### What I'm building
 
