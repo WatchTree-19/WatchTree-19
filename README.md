@@ -1,6 +1,6 @@
 ### Hi, I'm Sandeep
 
-Quantitative engineer working on AI SRE eval and benchmarks. Independent Researcher (Columbia University, alumnus), UK-based.
+This is my open research page, feel free to reach out by email, if you feel I could help out! (Columbia University, alumnus), UK-based.
 
 #### What I'm building
 
