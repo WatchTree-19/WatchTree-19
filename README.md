@@ -16,10 +16,9 @@ This is my open research page, feel free to reach out by email, if you feel I co
 
 #### Around the web
 
-- **Substack:** [substack.com/@sandeeprai1](https://substack.com/@sandeeprai1)
-- **Hugging Face:** [huggingface.co/SandeepRai1](https://huggingface.co/SandeepRai1)
 - **Google Scholar:** [scholar.google.co.uk/citations?user=GF8g3_QAAAAJ](https://scholar.google.co.uk/citations?hl=en&user=GF8g3_QAAAAJ)
 - **Email:** sandeeprai_dsp@hotmail.com
+- - **Substack:** [substack.com/@sandeeprai1](https://substack.com/@sandeeprai1)
 
 <!--
 **WatchTree-19/WatchTree-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
