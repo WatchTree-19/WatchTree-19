@@ -2,7 +2,7 @@ Hi, I'm Sandeep
 
 This is my open research page, feel free to reach out by email, if you feel I could help out! (Columbia University, alumnus), UK/US-based.
 
-I place myself as an Methodological researcher with interest in idealogical expansion of emerging areas.
+I place myself as an Methodological researcher.
 
 [ What I'm building
 
