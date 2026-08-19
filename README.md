@@ -5,9 +5,9 @@ This is my open research page, feel free to reach out by email, if you feel I co
 Methodological researcher.
 
 
-- **Google Scholar:** [scholar.google.co.uk/citations?user=GF8g3_QAAAAJ](https://scholar.google.co.uk/citations?hl=en&user=GF8g3_QAAAAJ)
+- **Google Scholar:** [Sandeep Singh Rai](https://scholar.google.co.uk/citations?user=GF8g3_QAAAAJ)
 - **Email:** sandeeprai_dsp@hotmail.com
-- **LinkedIn:** [linkedin.com/in/sandeeprai1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BRigRVTlfTam7DVngQQQhPQ%3D%3D]
+- **LinkedIn:** [linkedin.com/in/sandeeprai1](https://www.linkedin.com/in/sandeeprai1/)
 
 <!--
 **WatchTree-19/WatchTree-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
