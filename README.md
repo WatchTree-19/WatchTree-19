@@ -1,6 +1,6 @@
 Hi, I'm Sandeep
 
-This is my open research page, feel free to reach out by email, if you feel I could help out! (Columbia University, alumnus), UK/US-based.
+This is my open research page, feel free to reach out by email if you have anything interesting! (Columbia University, alumnus), UK/US-based.
 
 - **Google Scholar:** [Sandeep Singh Rai](https://scholar.google.co.uk/citations?user=GF8g3_QAAAAJ)
 - **Email:** sandeeprai_dsp@hotmail.com
