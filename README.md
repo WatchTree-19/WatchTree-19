@@ -2,9 +2,6 @@ Hi, I'm Sandeep
 
 This is my open research page, feel free to reach out by email, if you feel I could help out! (Columbia University, alumnus), UK/US-based.
 
-Methodological researcher.
-
-
 - **Google Scholar:** [Sandeep Singh Rai](https://scholar.google.co.uk/citations?user=GF8g3_QAAAAJ)
 - **Email:** sandeeprai_dsp@hotmail.com
 - **LinkedIn:** [linkedin.com/in/sandeeprai1](https://www.linkedin.com/in/sandeeprai1/)
